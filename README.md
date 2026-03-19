@@ -89,8 +89,8 @@ sudo sealert -a /var/log/audit/audit.log
 
 
 ---
+<img width="1145" height="599" alt="image" src="https://github.com/user-attachments/assets/2e61d1d7-abc4-424a-8dbe-75d0cce0853a" />
 
-![Screenshot](https://github.com/user-attachments/assets/a62e3130-bbf3-45bb-bb06-6faaeee6b58f)
 
 ---
 
