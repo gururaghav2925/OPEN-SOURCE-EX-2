@@ -80,33 +80,11 @@ sudo sealert -a /var/log/audit/audit.log
 
 
 
-
-![Screenshot](https://github.com/user-attachments/assets/ae7a6c0f-a4b1-4bfb-a9fa-bba382b41dec)
-
----
+<img width="691" height="531" alt="image" src="https://github.com/user-attachments/assets/7b3a5a28-de40-47a1-b387-a1ddb2e272b8" />
 
 
-![Screenshot](https://github.com/user-attachments/assets/6882e153-5b72-48f2-b848-1bbe912def53)
 
----
 
-![Screenshot](https://github.com/user-attachments/assets/1b987265-78c4-4a61-8de1-e56513083dab)
-
----
-
-![Screenshot](https://github.com/user-attachments/assets/889c08e8-2265-416a-bd8e-5acf43a4940b)
-
----
-
-![Screenshot](https://github.com/user-attachments/assets/e3f063f1-c212-4d64-9d7d-379b835c7781)
-
----
-
-![Screenshot](https://github.com/user-attachments/assets/78524493-bf9c-4aed-87bd-97be742d26ca)
-
----
-
-![Screenshot](https://github.com/user-attachments/assets/cc5d1cb8-edb0-494f-b5dd-7d53ff7f9e60)
 
 ---
 
